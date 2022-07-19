@@ -1,3 +1,7 @@
+## SERVICE.AI (Customer Case Management System)
+
+This project is to build customer case management based on MYSQL database, using React and Node.js. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
